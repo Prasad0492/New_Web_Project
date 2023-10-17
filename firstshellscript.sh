@@ -36,7 +36,11 @@ done
 ###substraction
 
 
+
 #percentage
 
 #Multiplication
+
+
+#divident
 
